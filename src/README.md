@@ -10,3 +10,9 @@
 
 ## Lista 3
 ### Estruturas de Repetição
+
+## Lista 4
+### Vetores
+
+## Lista 5
+### Matrizes
